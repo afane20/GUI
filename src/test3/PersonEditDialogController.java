@@ -4,13 +4,13 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Dialogs;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
-import ch.makery.address.model.Person;
-import ch.makery.address.util.CalendarUtil;
+//import ch.makery.address.model.Person;
+//import ch.makery.address.util.CalendarUtil;
 
 /**
  * Dialog to edit details of a person.
  * 
- * @author Marco Jakob
+ * @author 
  */
 public class PersonEditDialogController {
 

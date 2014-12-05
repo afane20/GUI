@@ -1,4 +1,4 @@
-package ch.makery.address.model;
+package test3;
 
 import java.util.Calendar;
 

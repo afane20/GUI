@@ -1,4 +1,4 @@
-package ch.makery.address.util;
+package test3;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
